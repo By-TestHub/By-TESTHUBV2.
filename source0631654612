@@ -1,3 +1,82 @@
+local AllowedUsers = {
+    "Kaprao_677",
+    "Rrp_TOEI",
+    "0wen2O03",
+    "IJYekc53181",
+    "Sultannoone",
+    "hbsbvv13",
+    "GAxBdn68750",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+""
+}
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local Username = LocalPlayer.Name 
+local IsAllowed = false
+
+for _, name in pairs(AllowedUsers) do
+    if Username == name then 
+        IsAllowed = true
+        break
+    end
+end
+
+if not IsAllowed then
+    LocalPlayer:Kick("By TEST HUB: คุณไม่มีสิทธิ์ใช้งานสคริปต์นี้ !")
+    return
+end
+
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
