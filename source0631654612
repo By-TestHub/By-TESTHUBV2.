@@ -276,7 +276,7 @@ listPadding.Parent = scrollingFrame
 
 local scriptsList = {
     {Name = "กระเด็นV2 อื่นๆอีกเยอะ", Url = "https://raw.githubusercontent.com/By-TestHub/FlingV2/refs/heads/main/source6403164613"},
-    {Name = "Block spinV2", Url = "https://raw.githubusercontent.com/By-TestHub/LFS/refs/heads/main/source6016116431"},
+    {Name = "Block spinV2", Url = "https://raw.githubusercontent.com/By-TestHub/BlockspinV2/refs/heads/main/source5041313546"},
     {Name = "Legend of speed", Url = "https://raw.githubusercontent.com/By-TestHub/LFS/refs/heads/main/source6016116431"},
     {Name = "MM2", Url = "https://raw.githubusercontent.com/M4VOWJ8IAKSR5WFRCCJ7AW5IW/ScrFr/refs/heads/main/MM2"},
     {Name = "TBS", Url = "https://raw.githubusercontent.com/M4VOWJ8IAKSR5WFRCCJ7AW5IW/ScrFr/refs/heads/main/The%20Strongest%20Battlegrounds-obfuscated"}
