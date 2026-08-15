@@ -60,7 +60,10 @@ local AllowedUsers = {
 "loadstringFREE_41b5",
 "RIPLoLre007xd5",
 "kengggfc",
-"KITTKANV40"
+"KITTKANV40",
+"Iliselphw55040",
+"",
+""
 }
 
 local Players = game:GetService("Players")
