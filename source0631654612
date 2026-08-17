@@ -76,7 +76,13 @@ local AllowedUsers = {
 "Testhub_Lua0",
 "Allinavnpk83058",
 "QWERTY224403",
-"Rehsecazun8096"
+"Rehsecazun8096",
+"SEEGOD_999",
+"kanata_kung77",
+"PKUMLB06945",
+"ddssrr701",
+"UhyOCg73920",
+"Raiyastos1903"
 }
 
 local Players = game:GetService("Players")
