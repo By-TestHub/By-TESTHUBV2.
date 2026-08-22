@@ -99,7 +99,20 @@ local AllowedUsers = {
 "Chloeburz83316",
 "exalte229780",
 "Prylin55827",
+"pangfin16",
+"preamchathai38",
+"mommommomxdx",
+"agAlUhn03768",
+"RIPLoLre007xd5",
+"Tupuadung413",
+"Ustcasse917",
+"Jaronminc46924",
+"Jabirwarne117",
+"rifhann1443",
+"",
+"",
 ""
+
 }
 
 local Players = game:GetService("Players")
